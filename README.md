@@ -1,5 +1,7 @@
 # Libft
 
+![Libft Logo](https://img.shields.io/badge/Libft-C%20Library-brightgreen) ![GitHub](https://img.shields.io/github/license/your_username/libft)
+
 Libft is a C library project included in the 42 schools curriculum. This project aims to create your own library that contains a collection of functions that make basic functionalities in C easier and more useful. It will serve as a helpful tool throughout your training.
 
 ## Project Details
