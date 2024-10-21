@@ -1,4 +1,10 @@
+<div align="center">
 # Libft
+  <a href="https://github.com/cantasar/Libft" target="_blank">
+    <img src="badges/libftm.png" alt="Libft Badge">
+  </a>
+<div/>
+
 
 Libft is a C library project included in the 42 schools curriculum. This project aims to create your own library that contains a collection of functions that make basic functionalities in C easier and more useful. It will serve as a helpful tool throughout your training.
 
