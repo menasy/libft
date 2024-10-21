@@ -1,6 +1,6 @@
 <div align="center">
 # Libft
-  <a href="https://github.com/cantasar/Libft" target="_blank">
+  <a href="https://github.com/menasy/libft" target="_blank">
     <img src="badges/libftm.png" alt="Libft Badge">
   </a>
 </div>
