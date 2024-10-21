@@ -1,5 +1,5 @@
-<div align="center">
 # Libft
+<div align="center">
   <a href="https://github.com/menasy/libft" target="_blank">
     <img src="badges/libftm.png" alt="Libft Badge">
   </a>
