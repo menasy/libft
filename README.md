@@ -1,4 +1,4 @@
-  #LIBFT
+#Libft
 <div align="center">
   <a href="https://github.com/menasy/libft" target="_blank">
     <img src="https://github.com/menasy/Project_icons/blob/main/badges/libftm.png" alt="Libft Badge">
